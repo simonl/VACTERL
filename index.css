@@ -1,0 +1,66 @@
+#entete
+{
+	background-color: white;
+	padding: 5px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin: auto;
+	text-align: center;
+	width: 1000px;
+}
+
+#header
+{
+	background-image: url(Images/VACTERL.png);
+	background-repeat: no-repeat;
+	height: 140px;
+	width: 1000px;
+	padding: 5px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 13px;
+}
+
+#main
+{
+	background-image: url(Images/Background.png);
+	background-repeat: repeat-y;
+	background-position: center;
+	margin: auto;
+	margin-top: 5px;
+	width: 1024px;
+
+}
+
+#content
+{
+	background-image: url(Images/Content.png);
+	background-repeat: repeat-x;
+	width: 990px;
+	padding: 5px;
+	padding-top: 20px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 13px;
+}
+
+ .currenttab
+{
+	font-size: 30px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+a
+{
+	color: red;
+	text-decoration: none;
+}
+
+.tab
+{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}

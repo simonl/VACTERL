@@ -1,0 +1,136 @@
+Jeudi, 28 mai 2008:
+	 J'ai parlé avec la docteur du département de motilité à l'Hôpital de Montréal pour Enfants, 
+	Dre Lévesque, à propos de mon idée de faire un site Web sur le Syndrome de VACTERL et elle m'a 
+	proposé de faire le site officiel du syndrome pour l'hôpital. Aussi, elle m'a accordé le droit 
+	à une entrevue lors d'une prochaine rencontre.
+
+Mercredi, 4 juin 2008:
+	 J'ai commencé à suivre un tutoriel (http://www.siteduzero.com/tutoriel-3-13666-apprenez-a-creer-votre-site-web.html)
+	d'apprentissage du langage de programmation XHTML qui sert de base à la création d'un site web. Je sais donner un 
+	titre à la fenêtre et donner différentes mises en formes à mon texte (gras, italique, taille, style, etc.). J'ai 
+	aussi fait des liens hypertextes menant à d'autre pages ou sites et menant à l'envoie d'un message préconçu pour 
+	m'être destiné.
+
+Mercredi, 25 juin 2008:
+	 J'ai continuer à suivre le tutoriel. Cette fois, j'ai appris les propriétés CSS qui servent à modifier le contenu 
+	de la page HTML. Par exemple, changer le style et la mise en forme de certains passages, donner de nouvelles 
+	propriétés à un morceau de texte précis, etc.
+
+mardi, 8 juillet:
+	 J'ai rencontrer le groupe de médecins responsables du Syndrôme de Vacterl au Children's et le Dr.Laberge m'a 
+	donné un pamphlet d'information sur la maladie.
+
+Vendredi, 18 juillet:
+	 J'ai continué à apprendre le langage CSS. Je sais maintenant modifier les liens et le texte selon qu'ils 
+	aient été sélectionnés ou que le pointeur soit dessus et rajouter des éléments à certains passages sans 
+	avoir à toucher le code HTML. J'ai vu un peu l'utilisation des blocs.
+
+Lundi 25 août:
+	 Cette fois, j'ai appris à faire des listes à puces et à les modifier avec du CSS. J'ai aussi vu le 
+	fonctionnement d'un bloc de texte et comment on peut les utiliser pour faire un design de site unique.
+	 J'ai aussi vu l'ajout de tableaux ainsi que de formulaires et espaces ou le visiteur peut entrer du 
+	texte, tout ayant une apparence modifiable avec du CSS. Je n'ai pas expérimenté avec ces éléments.
+
+Mardi 26 août:
+	 J'ai mis mes derniers apprentissages au travail et j'ai effectué une page principale de site. Je l'ai 
+	fait sur le thème de l'univers imaginaire que j'ai créer et sur lequel j'aimerais bien créer un jeu, il 
+	me servira donc probablement plus tard. Je l'ai fait en anglais sans vraiment y penser et je ne crois 
+	pas nécessaire de le refaire en français. 
+	 J'ai surtout passé du temps sur le design pour voir si je pouvais faire un site présentable et je suis 
+	bien content du résultat.
+
+Jeudi 28 août:
+	 J'ai continué mon semi-« site complet ». J'ai rajouté une page pour me contacter, incomplète, qui 
+	devra contenir un formulaire. J'ai aussi rajouté un tableau  dans l'autre page pour expérimenter avec 
+	cet élément. Par soucis de continuité, ces nouvelles pages sont aussi en anglais.
+
+16 septembre 2008:
+	 J'ai rencontré M. Fortin pour lui dire où j'en étais dans la conception de mon projet. Il m'a montré 
+	comment héberger un site sur le serveur de l'école. J'ai donc fait un portail vers toutes mes versions 
+	de test et je l'ai mis dans la section WEB de mon espace réseau.
+
+18 septembre 2008:
+	 J'ai fait mon échéancier selon ce que je crois qu'il est raisonnable que j'accomplisse. Je dois dire 
+	que mon retard sur mon horaire durant l'été était plus dû à la paresse qu'à une incapacité à assimiler 
+	les informations. Je tenterai de faire mieux à partir de maintenant.
+	 J'ai aussi rajouté mon Échéancier et mon Journal de Bord comme fichiers téléchargeables de mon portail. 
+	Je tâcherai de le maintenir à jour.
+
+21 septembre 2008:
+	 J'ai contacté le chirurgien en chef de l'Hopital de Montreal pour Enfants, le Dr. Jean-Martin Laberge, 
+	qui a de l'expériences avec le Syndrôme, pour lui demander le droit à une future entrevue. J'attend sa réponse.
+
+26 septembre 2008:
+	 J'ai rajouté un format .txt de mon échéancier et de journal de bord en téléchargement. Il semble que 
+	certaines images n'arrivent pas à s'afficher sur mon portail. Mon code me semble être bien écrit, ça 
+	doit être une restriction de l'hébergement gratuit de l'école.
+	 J'ai finalement fait la partie formulaire de Site "Complet" 0.2 et je peux maintenant m'attaquer à la partie 
+	PHP de mon apprentissage.
+
+29 septembre 2008:
+	 M. Fortin m'a donné un rendez-vous pour jeudi, jour 4, à 12:45. Il m'a ausi demandé mon adresse de messagerie 
+	électronique, alors je l'ai mise sur mon portail.
+
+2 octobre 2008:
+	 j'ai rencontré M. Fortin et il m'a conseillé de commencer à faire ma recherche. Je m'y mettrai au plus tôt.
+
+30 octobre 2008:
+	 J'ai rencontré M. Fortin. Je n'avais rien fait depuis la dernière rencontre. Il m'a pressé de commencer ma 
+	recherche. Il m'a aussi donner des indications concernant les interviews et le genre de contrôles de qualité 
+	que je devrai faire sur mon site (sondages, essais par d'autres, etc.). 
+
+31 octobre 2008:
+	 J'ai enfin trouvé le problème qui empêchait d'afficher des images sur mon site. Les majuscules dans le titre et
+	les extensions des fichiers étaient importants. Je les ai rectifiés et maintenant, ça fonctionne. J'ai aussi enlevé 
+	les liens vers les formats Open Office de mon échéancier et de mon journal de bord car je croient qu'ils ne me 
+	serviront plus, et le format .txt est beaucoup plus polyvalent.
+	J'en ai profité pour modifier la section "Download" et pour ajouter un lien vers la page principale dans chaque page du site.
+	J'ai fait quelques retouches pour faciliter la navigation de mon site web et son organisation.
+
+24 novembre 2008:
+	 J'ai rencontré M. Fortin et il m'a urger de faire ma recherche et de vraiment commencer à travailler. 
+	J'ai vraiment du mal à m'avancer dans mon projet, je vais travailler dessus très fort en fin de semaine.
+
+25 novembre 2008:
+	 J'ai fait ma recherche sur la conception d'un site web, le syndrome de VACTERL et rempli mes fiches 
+	bibliographiques. J'ai aussi demander des conseils à mon beau père qui est programmeur. J'ai fait un 
+	nouvel échéancier car l'ancienne version était beaucoup trop loin de la réalité pour que je puisse me 
+	rattraper. Je juge que mes échéanciers étaient raisonnables, à la condition que j'ais véritablement 
+	travailler sur mon projet personnel.
+
+29 novembre 2008:
+	 J'ai continué le tutoriel de programmation PHP, j'ai expérimenté avec les assignations de variables, 
+	les transferts de variables d'une page à l'autre et les fonctions. J'ai une horloge fonctionnelle, quoi 
+	qu'elle ne change pas en temps réel. J'ai aussi fait une page sécurisée par un mot de passe.
+
+30 novembre 2008:
+	 J'ai rajouté une liste "tableau" de variables qui s'affiche dans la page sécurisé. J'ai commencé à voir 
+	le langage SQL pour interagir avec une base de données. Je sais lire et écrire des valeurs dans une base 
+	de donnée. J'ai fait une page où le visiteur peut la modifier à sa guise.
+	 J'ai contacté les responsables du Portail de la commission scolaire pour leur demander l'adresse phpMyAdmin 
+	de leurs serveurs afin que je puisse y importer des bases de données, dont j'ai besoin pour accéder a mes 
+	dernières pages sur internet.
+
+3 décembre 2008:
+	 J'ai fait mon plan détaillé de rédaction et une première rédaction de mon Introduction.
+
+4 décembre 2008:
+	 J'ai rencontré M. Fortin, il m'a donné des indications sur ce que je devrais écrire dans ma rédaction. 
+	Il me reparlera de mon introduction la semaine prochaine. Les responsables de l'espace réseau m'ont recontacté 
+	et m'ont dit que leur infrastructure ne me permettait pas d'inclure des bases de données sur mon site.
+
+5 décembre 2008:
+	 J'ai programmé une page de clavardage en suivant le tutoriel, j'ai fini la 2e partie.
+
+6 décembre 2008L:
+	 J'ai commencé la 3e partie du tutoriel de programmation PHP: la fonction include, la concaténation et 
+	comment utiliser les formulaires avec PHP.J'ai fait une page Livre d'Or où les gens peuvent laisser un
+	message. C'est très semblables au clavardage mais les limites d'utilisations sont différentes.
+
+11 décembre 2008:
+	 J'ai rencontré M.Fortin et il m'a donné des indications concernant la rédaction de mon Introduction.
+
+13 décembre 2008:
+	 J'ai terminé la page Livre d'Or avec la capacité de choisir le nombre de messages visibles par pages. 
+	J'ai commencé à faire une fonctionnalité News, donnant des privilèges à une personne et protégée par 
+	mot de passe.

@@ -1,0 +1,34 @@
+ÉCHÉANCIER:
+
+**Au cours du travail:
+	- Garder mon journal de bord à jour.
+
+Durant l'été (Fin juin, Juillet, Août):
+	- Suivre et terminer le tutoriel de programmation XHTML du Site du Zéro(www.siteduzero.com).
+	- Suivre  et terminer le tutoriel de programmation CSS  du Site du Zéro.
+	- Rencontrer les médecins du service de motilité de l'Hôpital de Montréal pour Enfants afin de 
+	  me procurer de la documentation sur le syndrome de VACTERL.
+
+Septembre:
+	- Suivre et terminer le tutoriel de programmation PHP du Site du Zéro.
+	
+Octobre:
+	- Suivre et terminer le tutoriel de gestion de bases de données du Site du Zéro.
+	
+Novembre:
+	- Me documenter sur le design d'un site internet.
+	- Me documenter sur la nature/façon de faire d'une interview.
+	- Rassembler mes informations et écrire les textes/articles qui se retrouveront sur le site.
+	- Préparer mes questions pour l'interview avec Dre. Lévesque, Dr. Laberge.
+	- Préparer les questions de la section FAQ du site.
+
+Décembre:
+	- Commencer la programmation et la mise en page du site final.
+	- Y intégrer les textes et informations, et les fonctionnalités internet au mieux de ma capacité.
+	- Commencer à rédiger mon texte de projet.
+
+Janvier:
+	- Si tout va bien, finir mon projet personnel.
+
+Février:
+	- Finaliser à la dernière minute (j'espère que non).
